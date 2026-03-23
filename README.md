@@ -250,11 +250,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-## 👤 Author
 
-**Logesh Kannan**
-- GitHub: [@logeshkannan19](https://github.com/logeshkannan19)
-
----
-
-<p align="center">Built with ❤️ for developers who care about observability</p>
